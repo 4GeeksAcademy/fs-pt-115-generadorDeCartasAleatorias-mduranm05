@@ -29,6 +29,4 @@ window.onload = function() {
     currentCard.classList.add(randomSuit.className);
   });
 
-
-  
 };
